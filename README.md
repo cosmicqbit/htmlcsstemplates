@@ -20,3 +20,4 @@ Site | Description
 [Onepagelove](https://onepagelove.com/) | One-page websites, templates and resources
 [BootstrapTaste](https://bootstraptaste.com/) | Premium & Free Bootstrap Templates
 [Themewagon](https://themewagon.com/) | Best Free & Premium responsive Bootstrap Templates
+[HTMLrev](https://htmlrev.com/) | 1200+ free HTML templates
